@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-#Blog CMS With PHP Laravel
+## Blog CMS With PHP Laravel
 This CMS is made with PHP's laravel and using Bootstrap for styling. This has complete CRUD functionality and is styled nicely.
 
 ## About Laravel
